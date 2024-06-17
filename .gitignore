@@ -1,0 +1,8 @@
+node_modules
+dist
+out
+coverage
+test/**/dist
+test/**/actual.js
+yarn.lock
+pnpm-lock.yaml
